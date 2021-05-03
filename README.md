@@ -6,7 +6,7 @@ https://www.python.org/downloads/
 #### Verify Version Once Installed
 py --version
 #### From Your Download Directory Run The Source Code
-py photodex.py
+py location.py
 # Run The Executable (Windows Only)
 
 # Executable Was Created With PyInstaller
