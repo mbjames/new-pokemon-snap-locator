@@ -1,5 +1,5 @@
 # New Pokemon Snap Locator
-Application for viewing which pokemon are found on which islands.
+Application for viewing the islands where pokemon species are located.
 # Run The Source Code
 #### Download Python
 https://www.python.org/downloads/
